@@ -1,0 +1,9 @@
+{
+  "name": "sc-mobile-mock-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mock banking service for the SC Mobile local AI router demo.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
